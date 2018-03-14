@@ -1,0 +1,30 @@
+{
+  "name": "jnto",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://codeserver.dev.4a550a01-d91b-42bf-8d37-575160ff10d3@codeserver.dev.4a550a01-d91b-42bf-8d37-575160ff10d3.drush.in:2222/~/repository.git"
+  },
+  "author": "Nicolas Menescardi",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.23.6",
+    "gulp": "^3.9.1",
+    "gulp-add-src": "^0.2.0",
+    "gulp-sass": "^3.1.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1",
+    "gulp-minify-css": "^1.2.4",
+    "gulp-uglify": "^3.0.0",
+    "install": "^0.10.4",
+    "jquery": "^3.3.1"
+  }
+}
